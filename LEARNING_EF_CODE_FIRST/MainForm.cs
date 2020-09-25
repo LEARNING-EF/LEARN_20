@@ -9,11 +9,11 @@
 
 		private void MainForm_Load(object sender, System.EventArgs e)
 		{
-			//System.Globalization.CultureInfo
-			//	cultureInfo = new System.Globalization.CultureInfo("en-US");
-
 			System.Globalization.CultureInfo
-				cultureInfo = new System.Globalization.CultureInfo("fa-IR");
+				cultureInfo = new System.Globalization.CultureInfo("en-US");
+
+			//System.Globalization.CultureInfo
+			//	cultureInfo = new System.Globalization.CultureInfo("fa-IR");
 
 			System.Threading.Thread.CurrentThread.CurrentCulture = cultureInfo;
 			System.Threading.Thread.CurrentThread.CurrentUICulture = cultureInfo;
@@ -59,7 +59,7 @@
 				if (databaseContext != null)
 				{
 					databaseContext.Dispose();
-					databaseContext = null;
+					//databaseContext = null;
 				}
 			}
 		}

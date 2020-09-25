@@ -117,13 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="EmailAddressIsNotValide" xml:space="preserve">
+    <value>Email Address is not valid!</value>
+  </data>
   <data name="RangeErrorMessage" xml:space="preserve">
     <value>The {0} value should be between {1} and {2}!</value>
   </data>
   <data name="RegularExpressionErrorMessage" xml:space="preserve">
     <value>The {0} value is not valid!</value>
   </data>
-  <data name="RequredErrorMessage" xml:space="preserve">
+  <data name="RequiredErrorMessage" xml:space="preserve">
     <value>You did not specify {0}!</value>
   </data>
   <data name="StringLengthErrorMessage" xml:space="preserve">

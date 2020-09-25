@@ -117,19 +117,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Age" xml:space="preserve">
+    <value>سن</value>
+  </data>
   <data name="Description" xml:space="preserve">
     <value>توضیحات</value>
   </data>
   <data name="EmailAddress" xml:space="preserve">
-    <value>نشانی پست الکترونيکی</value>
+    <value>نشانی پست الکترونیک</value>
   </data>
   <data name="FullName" xml:space="preserve">
     <value>نام و نام خانوادگی</value>
   </data>
-  <data name="Id" xml:space="preserve">
-    <value>شناسه</value>
+  <data name="Password" xml:space="preserve">
+    <value>گذرواژه</value>
   </data>
-  <data name="Name" xml:space="preserve">
-    <value>نام</value>
+  <data name="Username" xml:space="preserve">
+    <value>شناسه‌کاربری</value>
   </data>
 </root>

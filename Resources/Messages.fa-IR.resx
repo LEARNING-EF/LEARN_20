@@ -117,13 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="EmailAddressIsNotValide" xml:space="preserve">
+    <value>نشانی پست الکترونیکی معتبر نمی‌باشد!</value>
+  </data>
   <data name="RangeErrorMessage" xml:space="preserve">
     <value>مقدار فيلد {0} بايد بين {1} و {2} باشد!</value>
   </data>
   <data name="RegularExpressionErrorMessage" xml:space="preserve">
     <value>مقدار فيلد {0} معتبر نمی باشد!</value>
   </data>
-  <data name="RequredErrorMessage" xml:space="preserve">
+  <data name="RequiredErrorMessage" xml:space="preserve">
     <value>مقدار فيلد {0} الزامی است!</value>
   </data>
   <data name="StringLengthErrorMessage" xml:space="preserve">
